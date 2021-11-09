@@ -20,7 +20,7 @@
         }
 
     ],
-    "theme_color": "#FFFFF",
+    "theme_color": "#FFFFFF",
     "background_color": "#FFFFFF",
     "start_url": "/calculator/",
     "display": "standalone",
