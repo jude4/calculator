@@ -22,7 +22,7 @@
     ],
     "theme_color": "#FFFFF",
     "background_color": "#FFFFFF",
-    "start_url": "/calculator-app/",
+    "start_url": "/calculator",
     "display": "standalone",
     "orientation": "portrait"
 }
